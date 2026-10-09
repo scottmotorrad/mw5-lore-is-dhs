@@ -45,7 +45,7 @@ BL-P-KNT2
 CRD-5M, MAD-BH_Boss, MAD-BH
 
 ### DLC5 — The Dragon's Gambit (3)
-### DRG-1G-S, HTM-26T-S, LGB-HS
+### DRG-1G-S, HTM-26T-S, LGB-HS, BLR-1G-S
 
 ### DLC6 — Solaris Showdown (10)
 WHM-DNC, WHM-DNC_PLAYABLE, COR-LZ, COR-XT1, CRD-SA2, HGN-VEST, HBK-VEST,
