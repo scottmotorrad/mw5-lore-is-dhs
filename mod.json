@@ -1,7 +1,7 @@
 {
    "displayName" : "mw5-lore-is-dhs",
    "version" : "1.0",
-   "buildNumber" : 7,
+   "buildNumber" : 10,
    "description" : "Adds internal double heat sinks to IS mechs that have them in the lore per Sarna or MWO.\r\n\r\nThe mechs updated to have base cooling 0.4:\r\nUM-K9\r\n\r\nThe mechs updated to have base cooling 0.8:\r\nFLE-RCX\r\n\r\nThe mechs updated to have base cooling 1:\r\nPNT-KK\r\n\r\nThe mechs updated to have base cooling 1.2:\r\nCOM-TDK, LCT-PB\r\n\r\nThe mechs updated to have base cooling 1.4:\r\nBJ-3, BJ-A, HCT-RCX, JVN-11A, JVN-11B, JVN-HT, VND-5L\r\n\r\nThe mechs updated to have base cooling 1.6:\r\nANH-1X, ANH-GZ, ENF-4P, ENF-5P, ENF-GH, HBK-6S, HBK-AZ, HBK-GI, HBK-RCX, HBK-VEST, FS9-E, WLF-GR\r\n\r\nThe mechs updated to have base cooling 1.8:\r\nAWS-9M, AWS-9Q, AWS-PB, RFL-5CS, RFL-LK, RFL-RCX, SDR-A, SDR-RCX, JR7-O\r\n\r\n\r\nThe mechs updated to have base cooling 2:\r\n\r\nBase Game (53)\r\nANH-1X, AWS-9M, AWS-PB, BNC-LM, BNC-SR, BLR-1GHE, BLR-3M, BJ-3, BJ-A,\r\nBL-P-KNT, CPLT-J, CDA-X5, COM-TDK, CRB-27B, CRB-27SL, CP-S, ENF-4P, ENF-5P,\r\nFS9-E, GHR-5P, GHR-MJ, GRF-3M, HGN-732B, HGN-HM, HBK-GI, JM6-FB, JVN-HT, JR7-O,\r\nKGC-000B, KGC-KJ, KTO-GB, MAD-5D, MAD-BH2, MAL-1P, MAL-1R, MAL-2P, MAL-KO,\r\nNSR-9J, ON1-M, ON1-P, PNT-KK, PXH-KK, QKD-IV4, RFL-LK, SHD-GD, SDR-A, TDR-9SE, VTR-DS, WHM-BW, WVR-Q, ZEU-5S, ZEU-9S\r\n\r\nDLC1 \u2014 Heroes of the Inner Sphere (16)\r\nARC-AGC, ARC-T, BL-6B-KNT, CHP-1NB, COR-PVT, ENF-GH, GRF-2N, KGC-CAR, LCT-PB,\r\nON1-YAJ, PXH-1B, PXH-3S, STK-3FB, VTR-BSK, WLF-GR, ZEU-SK\r\n\r\nDLC2 \u2014 Legend of the Kestrel Lancers (6)\r\nARC-2RB, CPLT-C1B, KTO-19b, MAD-2R, WHM-6RB, ZEU-5T\r\n\r\nDLC3 \u2014 Call to Arms (1)\r\nBL-P-KNT2\r\n\r\nDLC4 \u2014 Rise of Rasalhague (3)\r\nCRD-5M, MAD-BH_Boss, MAD-BH\r\n\r\nDLC5 \u2014 The Dragon's Gambit (3)\r\nDRG-1G-S, HTM-26T-S, LGB-HS\r\n\r\nDLC6 \u2014 Solaris Showdown (10)\r\nWHM-DNC, WHM-DNC_PLAYABLE, COR-LZ, COR-XT1, CRD-SA2, HGN-VEST, HBK-VEST,\r\nON1-XM1, LDK-IDM, ZEU-SA3\r\n\r\nDLC7 \u2014 Shadows of Kerensky (11)\r\nANH-IR, AS7-D-H, CDA-RCX, FLE-RCX, HCT-RCX, HBK-RCX, LGB-RCX, LGB-WD1, MAD-AH,\r\nRFL-RCX, SDR-RCX\r\n\r\nDLC8 \u2014 Chaos Reign (9)\r\nARC-5CS, BSW-HR, BSW-P1, BSW-P2, BSW-S2, BSW-X1, BSW-X2, CHP-3N, HBK-AZ, MAD-5CS, RFL-5CS\r\n\r\nDLC9 \u2014 Ashes & Ascension (21)\r\nARC-5S, AWS-9Q, CRD-6T, CTF-3D, CTF-3L, DV-7P, HBK-6S, JVN-11A, JVN-11B,\r\nKGC-A, LGB-OC, NSR-10P, NSR-9FC, NSR-WP, PRS-P1B, PRS-P1, VND-5L, VT-5M, WHM-7S,\r\nZEU-9S2\r\n\r\n\r\n\r\n\r\n\r\n",
    "author" : "scott",
    "authorURL" : "",
@@ -34,6 +34,7 @@
       "/Game/DLC4/Objects/Mechs/Crusader/MDA/CRD-5M_MDA.uasset",
       "/Game/DLC4/Objects/Mechs/Marauder/MDA/MAD-BH_Boss_MDA.uasset",
       "/Game/DLC4/Objects/Mechs/Marauder/MDA/MAD-BH_MDA.uasset",
+      "/Game/DLC5/Objects/Mechs/Battlemaster/MDA/BLR-1G-S_MDA.uasset",
       "/Game/DLC5/Objects/Mechs/Dragon/MDA/DRG-1G-S_MDA.uasset",
       "/Game/DLC5/Objects/Mechs/Hatamotochi/MDA/HTM-26T-S_MDA.uasset",
       "/Game/DLC5/Objects/Mechs/Longbow/MDA/LGB-HS_MDA.uasset",
@@ -145,6 +146,6 @@
       "/Game/Objects/Mechs/Zeus/MDA/ZEU-9S_MDA.uasset"
    ],
    "steamPublishedFileId" : 3816194420,
-   "steamLastSubmittedBuildNumber" : 6,
+   "steamLastSubmittedBuildNumber" : 8,
    "steamModVisibility" : "Public"
 }
