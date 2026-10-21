@@ -1,8 +1,8 @@
 {
    "displayName" : "mw5-lore-is-dhs",
    "version" : "1.0",
-   "buildNumber" : 14,
-   "description" : "Adds internal double heat sinks to IS mechs that have them in the lore per Sarna for canon mechs or MWO for hero mechs. Please let me know if I missed any or included any that shouldn't be! \r\n\r\nThe mechs updated to have base cooling 0.4:\r\nUM-K9\r\n\r\nThe mechs updated to have base cooling 0.8:\r\nFLE-RCX\r\n\r\nThe mechs updated to have base cooling 1:\r\nPNT-KK\r\n\r\nThe mechs updated to have base cooling 1.2:\r\nCOM-TDK, LCT-PB\r\n\r\nThe mechs updated to have base cooling 1.4:\r\nBJ-3, BJ-A, HCT-RCX, JVN-11A, JVN-11B, JVN-HT, VND-5L, UM-SA1\r\n\r\nThe mechs updated to have base cooling 1.6:\r\nANH-1X, ANH-GZ, ENF-4P, ENF-5P, ENF-GH, HBK-GI, HBK-RCX, HBK-VEST, FS9-E, WLF-GR\r\n\r\nThe mechs updated to have base cooling 1.8:\r\nAWS-9M, AWS-9Q, AWS-PB, RFL-5CS, RFL-LK, RFL-RCX, SDR-A, SDR-RCX, JR7-O, VL-X1\r\n\r\n\r\nThe mechs updated to have base cooling 2:\r\n\r\nBase Game\r\nASN-26, BNC-LM, BNC-SR, BLR-1GHE, BLR-3M, BL-P-KNT, CPLT-J, CDA-X5, CRB-27B, CRB-27SL, CP-S, GHR-5P, GHR-MJ, GRF-3M, HGN-732B, HGN-HM, JM6-FB, KGC-000B, KGC-KJ, KTO-GB, MAD-5D, MAD-BH2, MAL-1P, MAL-1R, MAL-2P, MAL-KO, NSR-9J, ON1-M, ON1-P, PXH-KK, QKD-5K, QKD-IV4, SHD-GD, TDR-9SE, VTR-DS, WHM-BW, WVR-7H, WVR-Q, ZEU-5S, ZEU-9S\r\n\r\nDLC1 \u2014 Heroes of the Inner Sphere\r\nARC-AGC, ARC-T, ASN-27, ASN-DD, BL-6B-KNT, CHP-1NB, COR-PVT, CGR-3K, DV-7D, DV-FR, GRF-2N, KGC-CAR,\r\nON1-YAJ, PXH-1B, PXH-3S, STK-3FB, VTR-BSK, ZEU-SK\r\n\r\nDLC2 \u2014 Legend of the Kestrel Lancers\r\nARC-2RB, CPLT-C1B, KTO-19b, MAD-2R, TDR-5SD, WHM-6RB, ZEU-5T\r\n\r\nDLC3 \u2014 Call to Arms\r\nBL-P-KNT2\r\n\r\nDLC4 \u2014 Rise of Rasalhague\r\nCRD-5M, MAD-BH_Boss, MAD-BH\r\n\r\nDLC5 \u2014 The Dragon's Gambit\r\nCGR-3K-S, CPLT-K2-S, DRG-1G-S, HTM-26T-S, LGB-HS, BLR-1G-S, MAL-MX90-S\r\n\r\nDLC6 \u2014 Solaris Showdown\r\nWHM-DNC, WHM-DNC_PLAYABLE, CTF-VE1, COR-LZ, COR-XT1, CRD-SA2, HGN-VEST, ON1-XM1, LDK-IDM, ZEU-SA3, LDK-SA5, LDK-X1A, LDK-X1B, LDK-X2A, LDK-X3A\r\n\r\nDLC7 \u2014 Shadows of Kerensky\r\nANH-IR, AS7-D-H, BSK-1, BSK-2, BSK-3, BSK-5, BSK-6, BSK-7, BSK-BT, CDA-RCX, JM6-B2, LGB-RCX, LGB-WD1, MAD-AH\r\n\r\nDLC8 \u2014 Chaos Reign\r\nARC-5CS, BL-9-KNT, BSK-AIV, BSW-HR, BSW-P1, BSW-P2, BSW-S2, BSW-X1, BSW-X2, CHP-3N, HBK-AZ, MAD-5CS\r\n\r\nDLC9 \u2014 Ashes & Ascension\r\nARC-5S, CRD-6T, CTF-3D, CTF-3L, DV-7P, HBK-6S, KGC-A, LGB-OC, NSR-10P, NSR-9FC, NSR-WP, PRS-P1B, PRS-P1, PXH-R, VT-5M, WHM-7S, ZEU-9S2",
+   "buildNumber" : 15,
+   "description" : "Adds internal double heat sinks to IS mechs that have them in the lore per Sarna for canon mechs or MWO for hero mechs. Please let me know if I missed any or included any that shouldn't be! \r\n\r\nThe mechs updated to have base cooling 0.4:\r\nUM-K9\r\n\r\nThe mechs updated to have base cooling 0.8:\r\nFLE-RCX\r\n\r\nThe mechs updated to have base cooling 1:\r\nPNT-KK\r\n\r\nThe mechs updated to have base cooling 1.2:\r\nCOM-TDK, LCT-PB\r\n\r\nThe mechs updated to have base cooling 1.4:\r\nBJ-3, BJ-A, HCT-RCX, JVN-11A, JVN-11B, JVN-HT, VND-5L, UM-SA1\r\n\r\nThe mechs updated to have base cooling 1.6:\r\nANH-1X, ANH-GZ, ENF-4P, ENF-5P, ENF-GH, HBK-GI, HBK-RCX, HBK-VEST, FS9-E, WLF-GR\r\n\r\nThe mechs updated to have base cooling 1.8:\r\nAWS-9M, AWS-9Q, AWS-PB, RFL-5CS, RFL-LK, RFL-RCX, SDR-A, SDR-RCX, JR7-O, VL-X1\r\n\r\n\r\nThe mechs updated to have base cooling 2:\r\n\r\nBase Game\r\nASN-26, BNC-LM, BNC-SR, BLR-1GHE, BLR-3M, BL-P-KNT, CPLT-J, CDA-X5, CRB-27B, CRB-27SL, CP-S, GHR-5P, GHR-MJ, GRF-3M, HGN-732B, HGN-HM, JM6-FB, KGC-000B, KGC-KJ, KTO-GB, MAD-5D, MAD-BH2, MAL-1P, MAL-1R, MAL-2P, MAL-KO, NSR-9J, ON1-M, ON1-P, PXH-KK, QKD-5K, QKD-IV4, SHD-GD, SHD-5M, TDR-9SE, VTR-DS, WHM-BW, WVR-7H, WVR-Q, ZEU-5S, ZEU-9S\r\n\r\nDLC1 \u2014 Heroes of the Inner Sphere\r\nARC-AGC, ARC-T, ASN-27, ASN-DD, BL-6B-KNT, CHP-1NB, COR-PVT, CGR-3K, DV-7D, DV-FR, GRF-2N, KGC-CAR,\r\nON1-YAJ, PXH-1B, PXH-3S, STK-3FB, VTR-BSK, ZEU-SK\r\n\r\nDLC2 \u2014 Legend of the Kestrel Lancers\r\nARC-2RB, CPLT-C1B, KTO-19b, MAD-2R, TDR-5SD, WHM-6RB, ZEU-5T\r\n\r\nDLC3 \u2014 Call to Arms\r\nBL-P-KNT2\r\n\r\nDLC4 \u2014 Rise of Rasalhague\r\nCRD-2R, CRD-5M, MAD-BH_Boss, MAD-BH\r\n\r\nDLC5 \u2014 The Dragon's Gambit\r\nCGR-3K-S, CPLT-K2-S, DRG-1G-S, HTM-26T-S, LGB-HS, BLR-1G-S, MAL-MX90-S\r\n\r\nDLC6 \u2014 Solaris Showdown\r\nWHM-DNC, WHM-DNC_PLAYABLE, CTF-VE1, COR-LZ, COR-XT1, CRD-SA2, HGN-VEST, ON1-XM1, LDK-IDM, ZEU-SA3, LDK-SA5, LDK-X1A, LDK-X1B, LDK-X2A, LDK-X3A\r\n\r\nDLC7 \u2014 Shadows of Kerensky\r\nANH-IR, AS7-D-H, BSK-1, BSK-2, BSK-3, BSK-5, BSK-6, BSK-7, BSK-BT, CDA-RCX, JM6-B2, LGB-RCX, LGB-WD1, MAD-AH\r\n\r\nDLC8 \u2014 Chaos Reign\r\nARC-5CS, BL-9-KNT, BSK-AIV, BSW-HR, BSW-P1, BSW-P2, BSW-S2, BSW-X1, BSW-X2, CHP-3N, HBK-AZ, MAD-5CS\r\n\r\nDLC9 \u2014 Ashes & Ascension\r\nARC-5S, CRD-6T, CTF-3D, CTF-3L, DV-7P, HBK-6S, KGC-A, LGB-OC, NSR-10P, NSR-9FC, NSR-WP, PRS-P1B, PRS-P1, PXH-R, VT-5M, WHM-7S, ZEU-9S2",
    "author" : "scott",
    "authorURL" : "",
    "defaultLoadOrder" : 0,
@@ -37,6 +37,7 @@
       "/Game/DLC2/Objects/Mechs/Warhammer/MDA/WHM-6RB_MDA.uasset",
       "/Game/DLC2/Objects/Mechs/Zeus/MDA/ZEU-5T_MDA.uasset",
       "/Game/DLC3/Objects/Mechs/Blackknight/MDA/BL-P-KNT2_MDA.uasset",
+      "/Game/DLC4/Objects/Mechs/Crusader/MDA/CRD-2R_MDA.uasset",
       "/Game/DLC4/Objects/Mechs/Crusader/MDA/CRD-5M_MDA.uasset",
       "/Game/DLC4/Objects/Mechs/Marauder/MDA/MAD-BH_Boss_MDA.uasset",
       "/Game/DLC4/Objects/Mechs/Marauder/MDA/MAD-BH_MDA.uasset",
@@ -165,6 +166,7 @@
       "/Game/Objects/Mechs/Quickdraw/MDA/QKD-5K_MDA.uasset",
       "/Game/Objects/Mechs/Quickdraw/MDA/QKD-IV4_MDA.uasset",
       "/Game/Objects/Mechs/Rifleman/MDA/RFL-LK_MDA.uasset",
+      "/Game/Objects/Mechs/Shadowhawk/MDA/SHD-5M_MDA.uasset",
       "/Game/Objects/Mechs/Shadowhawk/MDA/SHD-GD_MDA.uasset",
       "/Game/Objects/Mechs/Spider/MDA/SDR-A_MDA.uasset",
       "/Game/Objects/Mechs/Thunderbolt/MDA/TDR-9SE_MDA.uasset",
@@ -177,6 +179,6 @@
       "/Game/Objects/Mechs/Zeus/MDA/ZEU-9S_MDA.uasset"
    ],
    "steamPublishedFileId" : 3816194420,
-   "steamLastSubmittedBuildNumber" : 13,
+   "steamLastSubmittedBuildNumber" : 14,
    "steamModVisibility" : "Public"
 }
